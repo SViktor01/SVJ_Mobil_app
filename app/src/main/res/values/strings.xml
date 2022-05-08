@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MobilVasarlas</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registation">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">telefonszám</string>
+    <string name="address">Postai cim</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírás</string>
+    <string name="anonym_login">Bejelentkezés vendégként</string>
+    <string name="google_login">Bejelentkezés Google fiókkal</string>
+    <string name="email">Email cim</string>
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Újdonságok</string>
+    <string name="log_out_button">Kijelentkezés</string>
+    <string name="setting_button">Beállítás</string>
+
+
+     <string-array name="shopping_item_names">
+        <item>Samsung Galaxy A5</item>
+        <item>Huawei P30 Lite</item>
+        <item>Redmi 8 Pro</item>
+        <item>Sony Xperia Z5</item>
+        <item>Samsung Galaxy S10</item>
+        <item>Huawei Y9</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Samsung Galaxy A5</item>
+        <item>Huawei P30 Lite</item>
+        <item>Redmi 8 Pro</item>
+        <item>Sony Xperia Z5</item>
+        <item>Samsung Galaxy S10</item>
+        <item>Huawei Y9</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/galaxia5</item>
+        <item>@drawable/huaweip30lite</item>
+        <item>@drawable/redmi8pro</item>
+        <item>@drawable/sonixperiaz5</item>
+        <item>@drawable/samsunggalaxis10</item>
+        <item>@drawable/huaweiy9</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>100 Coin</item>
+        <item>150 Coin</item>
+        <item>500 Coin</item>
+        <item>300 Coin</item>
+        <item>180 Coin</item>
+        <item>70 Coin</item>
+    </array>
+</resources>
